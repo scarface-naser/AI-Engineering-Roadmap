@@ -6,7 +6,7 @@ AI Engineering Roadmap (2026)
 
 A complete, practical, and industry-aligned roadmap for becoming an AI Engineer in 2026.
 Created by "Naser Almurad", based on hands-on experience and validated with multiple real-world sources.
-==================================================================================================================================
+====================================
 🚀What is an AI Engineer?
 
 An AI Engineer builds real, production-ready systems using large language models (LLMs) and company data.
@@ -16,7 +16,7 @@ They integrate existing models (OpenAI, HuggingFace, LLAMA, DeepSeek, etc.) into
 
 AI Engineering = AI Models + APIs + Tools + Databases + Vector Stores + Memory + Deployment + Monitoring
 
-==================================================================================================================================
+====================================
 
 🎯Roadmap Overview
 
@@ -28,7 +28,7 @@ PHASE 1:- Solid Foundations
 -Git & GitHub
 -Linux + Terminal
 -Data handling basics (Pandas, SQL, file parsing)
-==================================================================================================================================
+====================================
 PHASE 2:- LLM Interaction Skills
 
 -Prompt engineering
@@ -38,7 +38,7 @@ PHASE 2:- LLM Interaction Skills
 -Tool calling
 -Controlling model behavior
 -Using AI APIs (OpenAI, DeepSeek, Meer-AI, Groq, HF Inference, OpenRouter)
-==================================================================================================================================
+====================================
 PHASE 3:- AI System Building
 
 🔗LangChain
@@ -76,7 +76,7 @@ PHASE 3:- AI System Building
 -Monitoring cost, latency, errors
 -Evaluation & safety (hallucination checks, input/output validation)
 
-==================================================================================================================================
+====================================
 
 PHASE 4:- Deployment & DevOps
 
@@ -86,7 +86,7 @@ PHASE 4:- Deployment & DevOps
 -Logging, monitoring, rate limits
 -Cost optimization
 
-==================================================================================================================================
+====================================
 
 PHASE 5 :- Portfolio Projects (Critical)
 
@@ -106,7 +106,7 @@ Each project should include:
 ✔ Live demo
 ✔ Short video walkthrough
 
-==================================================================================================================================
+====================================
 
 PHASE 6:- Certifications (Optional but Strong)
 
@@ -117,26 +117,26 @@ PHASE 6:- Certifications (Optional but Strong)
 
 These help build trust and credibility.
 
-==================================================================================================================================
+====================================
 
 📄Roadmap PDF
 
 The full detailed roadmap is included in this repository as a downloadable PDF.
 
-==================================================================================================================================
+====================================
 
 📝About This Roadmap
 
 This roadmap was created by " Naser Almurad " after deep research, hands-on development, and working through multiple real-world AI engineering practices.
 Phase 3 closely aligns with the methodology discussed by "Data With Baraa", combined with additional modern production skills such as MCP, LLMOps, evaluation workflows, and deployment standards used in 2024–2025.
 
-==================================================================================================================================
+====================================
 
 ⭐Contributions
 
 Feel free to open issues, suggest improvements, or share your project ideas.
 
-==================================================================================================================================
+====================================
 🙌Support
 
 If you find this roadmap helpful:
